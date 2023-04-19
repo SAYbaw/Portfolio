@@ -1,6 +1,6 @@
 # Steve Sabaugh
 ## Computer Science Education
 
-## [Resume](
+## [Resume](https://github.com/SAYbaw/Portfolio/blob/main/assets/Sabaugh%20resume%202022%2003%2021.pdf)
 
 
