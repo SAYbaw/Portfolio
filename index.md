@@ -1,5 +1,6 @@
 # Steve Sabaugh
 ## Computer Science Education
+![](https://github.com/SAYbaw/Portfolio/blob/main/assets/banner.jpeg)
 
 ## [about Steve](https://github.com/SAYbaw/Portfolio/blob/main/about.md)
 ## [What Steve can teach](https://github.com/SAYbaw/Portfolio/blob/main/classes.md)
