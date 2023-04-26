@@ -1,2 +1,2 @@
 # About Steve Sabaugh
-![](/assets/head.jpg)
+<img width="10%" src="assets/head.jpg"/>
