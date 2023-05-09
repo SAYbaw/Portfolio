@@ -8,6 +8,6 @@
 ## [Thoughts on CS Education](/pages/thoughts.md)
 ## [Sample Lessons](pages/lessons.md)
 ## [Curricular Unit](https://github.com/hunter-teacher-cert/unit_plan-stevesolo)
-## [Sample Computer Science projects](https://github.com/SAYbaw/Portfolio/blob/main/CSprojects.md)
+## [Sample Computer Science projects](pages/projects.md)
 
 
