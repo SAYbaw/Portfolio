@@ -1,3 +1,3 @@
 # About Steve Sabaugh
-<img width="25%" src="/assets/head.jpg"/>
+<img width="200px" src="/assets/head.jpg"/>
 
