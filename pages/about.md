@@ -1,3 +1,3 @@
 # About Steve Sabaugh
-![]("/assets/head_25.jpg")
+![](/assets/head_25.jpg)
 
