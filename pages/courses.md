@@ -13,4 +13,4 @@
 + Cybersecurity
 + Digital Citizenship
 
-I can teach any class that ivolves teaching computer applications or computer programming. I also have the skills to teach engineering courses, IT/computer technology, digital electronics and metal shop. I also have working experience in accounting and financial mathematics, audio and visual media creation/editing, and entertainment technology and control.
+I can teach any class that involves teaching computer applications, computer technology, computer science or computer programming. I have the skills to teach engineering courses, digital electronics and metal shop. I also have working experience in accounting and financial mathematics, audio and visual media creation/editing, and entertainment technology and control.
