@@ -1,3 +1,4 @@
+# [Home |](../index.md) [Sample Lessons |](./lessons.md)
 # Functions Unit
 
 ### [Code](https://github.com/SAYbaw/functions1)
