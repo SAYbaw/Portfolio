@@ -4,7 +4,7 @@
 
 ## [about Steve](pages/about.md)
 ## [What Steve can teach](https://github.com/SAYbaw/Portfolio/blob/main/classes.md)
-## [Resume](assets/Sabaugh%20resume%202022%2003%2021.pdf)
+## [Resume](assets/resume.pdf)
 ## [Thoughts on Computer Science Education](pages/thoughts.md)
 ## [Sample Lessons](pages/lessons.md)
 ## [Curricular Unit](https://github.com/hunter-teacher-cert/unit_plan-stevesolo)
