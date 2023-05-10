@@ -1,3 +1,4 @@
+# [Home |](../index.md)
 # My thoughts on Computer Science Education
 Computer Science has become an integral part of modern society, and it is no longer limited to tech professionals. I can say that in my 20 years of working in show business, my computer science skills served me more, than my theatre skills. CS has a profound impact on our daily lives, from smartphones to the Internet of Things (IoT). The need to teach computer science in K-12 education is more crucial now than ever before. 
 
