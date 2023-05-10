@@ -1,3 +1,4 @@
+# [Home |](../index.md) [Sample Lessons |](./lessons.md)
 # micro:bit Advanced Button Logic
 ## Analog Rotary Emulation: Volume Control with Visual Display
 
