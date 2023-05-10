@@ -3,7 +3,7 @@
 ![](/assets/banner.jpeg)
 
 ## [about Steve](pages/about.md)
-## [What Steve can teach?](pages/courses.md)
+## [What can Steve teach?](pages/courses.md)
 ## [Resume](assets/resume.pdf)
 ## [Thoughts on Computer Science Education](pages/thoughts.md)
 ## [Sample Lessons](pages/lessons.md)
