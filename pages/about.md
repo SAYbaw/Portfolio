@@ -1,5 +1,5 @@
 # About Steve Sabaugh
-![](../assets/head_25.jpg)
+![](../assets/head_25.jpeg)
 
 Steve Sabaugh is a multi-skilled individual who has worked in various capacities in the entertainment industry throughout his career. In the 1990s, he served as the Stage Manager for the touring company and corporate theatre of Second City Detroit. He also worked as a LightBoard operator and Programmer for different shows during that time.
 
