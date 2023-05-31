@@ -1,4 +1,4 @@
-# [Home |](../index.md) [Sample Lessons |](./projects.md)
+# [Home |](../index.md) [Sample Computer Science Projects |](./projects.md)
 ## Gyroscopic and CNC Industrial Robot Arm using Lego Spike Prime
 
 ### [Presentation Slides](../assets/Robot_Arm_Presentation.pdf)
