@@ -7,5 +7,5 @@ A banking program in Java using Object Oriented approach. The user can also save
 ### [Craps Simulator](https://github.com/hunter-teacher-cert/cohort-3-prework-SAYbaw/blob/master/pre08/Craps.java)
 Java
 
-### [Gyroscopic and CNC Industrial Robot Arm using Lego Spike Prime](./pages/robotArm.md)
+### [Gyroscopic and CNC Industrial Robot Arm using Lego Spike Prime](../pages/robotArm.md)
 A project for *Robotics and Engineering* graduate course in STEM education at Hunter College. 
